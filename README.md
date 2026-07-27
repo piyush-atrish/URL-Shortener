@@ -2,8 +2,6 @@
 
 A highly scalable, maintainable, and modular URL Shortener built with the MERN stack (MongoDB, Express.js, React.js, Node.js). This project goes beyond basic CRUD operations by implementing industry-standard best practices, modular folder structures, and advanced system design concepts.
 
-Based on the tutorial by [Sheryians Coding School](https://youtu.be/ENmBjeLImt4).
-
 ## 🚀 Features
 
 *   **URL Shortening:** Convert long, bulky URLs into clean, short links using `nanoid`.
